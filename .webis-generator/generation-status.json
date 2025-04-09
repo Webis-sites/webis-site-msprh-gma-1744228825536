@@ -1,8 +1,19 @@
 {
-  "projectName": "מספרה-גמא-8825",
-  "businessName": "מספרה גמא",
-  "created": "2025-04-09T20:00:25.589Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-09T20:01:41.664Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 1,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Site Plan",
+      "type": "plan",
+      "status": "failed",
+      "description": "יצירת תוכנית האתר",
+      "error": "שגיאה בשירות Anthropic: Failed after 3 attempts. Last error: Overloaded"
+    }
+  ],
+  "repoName": "webis-site-msprh-gma-1744228825536"
 }
